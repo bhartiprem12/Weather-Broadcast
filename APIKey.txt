@@ -1,0 +1,6 @@
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
+bdd019bae33f2e646218624e4d313922
+
+https://api.openweathermap.org/data/2.5/weather?q=Jammu&appid=bdd019bae33f2e646218624e4d313922
